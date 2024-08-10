@@ -10,6 +10,9 @@ Ahoy there! I'm a passionate **Web Developer** who loves to bring ideas to life 
 - **Database:** MongoDB, Mongoose
 - **Tools:** Git, GitHub, npm, Docker
 
+## 🌐 Other Languages
+- **Python**
+
 ## 🌟 Fun Fact
 Just like the Straw Hat Pirates in One Piece, I believe in teamwork, perseverance, and a bit of fun on every coding adventure. Let's sail these seas together and discover new possibilities!
 
