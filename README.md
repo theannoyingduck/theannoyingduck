@@ -21,6 +21,7 @@ Just like the Straw Hat Pirates in One Piece, I believe in teamwork, perseveranc
 - **LinkedIn:** [TheAnnoyingDuck](https://www.linkedin.com/in/TheAnnoyingDuck)
 - **Twitter:** [@theannoyigduck](https://twitter.com/theannoyigduck)
 - **Discord:** [theannoyingduck_here](https://discord.com/users/theannoyingduck_here)
+- **Buy Me a Coffee:** [theannoyingduck](https://buymeacoffee.com/theannoyingduck)
 
 ---
 
